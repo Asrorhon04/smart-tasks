@@ -39,3 +39,10 @@ git clone https://github.com/asrorhon04/smart-tasks.git
 cd smart-tasks
 npm install
 quasar dev
+
+🧑‍💻 Автор
+Telegram: @Asrorkhon04
+
+LinkedIn: Асрорхон Арсланов
+
+GitHub: Asrorhon04
